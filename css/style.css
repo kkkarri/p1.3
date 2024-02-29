@@ -1,0 +1,43 @@
+body {
+    background: mediumseagreen ;
+    padding: 15px 30px 15px 30px;
+}
+
+.wrapper {
+    background: darkseagreen;
+    display: grid;
+    grid-auto-flow: dense;
+
+}
+
+.sidebar{
+    background: palegreen;
+    padding: 40px 60px;
+    box-sizing: border-box;
+    width: 800px;
+}
+.contacts{
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 24px;
+}
+
+.my-profile{
+    color: black;
+    font-size: 20px;
+    font-weight: 800;
+    line-height: 20px;
+}
+.my-name{
+    color: black;
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 20px;
+}
+.my-bio{
+    color: black;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 18px;
+}
